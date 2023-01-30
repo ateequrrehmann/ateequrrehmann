@@ -7,21 +7,21 @@ Hi there! 👋 My name is Ateeq and I am a Ist year computer science student at 
 
 ## 👯 Connect with me
 <p>
-    <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
+    <a href="https://www.fiverr.com/users/ateeq063/seller_dashboard" target="_blank">
         <img alt="Fiverr."
             src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white">
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=rehmanateequr063@gmail.com&tf=cm" target="_blank">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=rehmanateequr501@gmail.com&tf=cm" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://github.com/Cutiekla" target="_blank">
+    <a href="https://github.com/ateequrrehmann" target="_blank">
         <img alt="Github"
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
 
 ## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ateequrrehmann&theme=algolia"
         alt="abdullahqaisar" /></p>
 
 ## 🛠️ My Skills
@@ -73,9 +73,9 @@ Hi there! 👋 My name is Ateeq and I am a Ist year computer science student at 
 ## 📊 Github Stats
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ateeq's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=cutiekla&show_icons=true&count_private=true&theme=algolia%22height=%22192px" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cutiekla&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="cutiekla" height="192px" />
+            src="https://github-readme-stats.vercel.app/api?username=ateequrrehmann&show_icons=true&count_private=true&theme=algolia%22height=%22192px" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ateequrrehmann&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
+        alt="ateequrrehmann" height="192px" />
     <br />
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
     experience or skill level.
