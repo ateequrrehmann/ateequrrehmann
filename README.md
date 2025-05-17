@@ -3,7 +3,7 @@
         width="35"></h1>
 
 ## :sassy_man: About me
-Hi there! 👋 My name is Ateeq and I am a Ist year computer science student at Air University, Islamabad. My passion lies in web development, programming and I have gained expertise in web development from our seniors. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a content writer and love to write articles. I love nature and things related to it. I hope after completing my graduation degree I am good at almost everything.
+Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at Air University, Islamabad. My passion lies in flutter app development, programming and I have gained expertise in app development from my two interships( one from BYTEWISE and other from TalentBase.Ai) where I worked as full stack app developer. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a content writer and love to write articles. I love nature and things related to it. I hope after completing my graduation degree I am good at almost everything.
 
 ## 👯 Connect with me
 <p>
@@ -11,7 +11,7 @@ Hi there! 👋 My name is Ateeq and I am a Ist year computer science student at 
         <img alt="Fiverr."
             src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white">
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=rehmanateequr501@gmail.com&tf=cm" target="_blank">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=ateequrrehman2674@gmail.com&tf=cm" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://github.com/ateequrrehmann" target="_blank">
@@ -36,35 +36,16 @@ Hi there! 👋 My name is Ateeq and I am a Ist year computer science student at 
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
-    <a href="https://www.w3schools.com/html/" target="_blank">
-        <img alt="HTML"
-            src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-    <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">
-        <img alt="CSS"
-            src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">                                                  
     <br />
     <br />
-    <summary><b>Frontend Developement</b></summary>
-    <a href="https://www.w3.org/html/" target="_blank">
+    <summary><b>Full Stack App Developer</b></summary>
+    <a href="https://www.geeksforgeeks.org/dart-tutorial/" target="_blank">
         <img alt="HTML"
-            src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+            src="https://www.google.com/imgres?q=dart%20flutter%20icon&imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fflutter-icon-2048x2048-ufx4idi8.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F14068%2Fflutter&docid=Gn6eE_NsOVpPWM&tbnid=6U0TaxkRjZ1vqM&vet=12ahUKEwjMxtmD86qNAxWFQvEDHcUvAlUQM3oECBkQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjMxtmD86qNAxWFQvEDHcUvAlUQM3oECBkQAA">
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img alt="CSS"
-            src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <a href="https://www.w3schools.com/react/" target="_blank">
-        <img alt="ReactJS"
-            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    </a>
-    <a href="https://mui.com/" target="_blank">
-        <img alt="Material-UI"
-            src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img alt="Bootstrap"
-            src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
+    <p>Firebase</p>
+    <p>UI/UX</p>
+    <p>Backend</p>
     <br />
     <br />
     
