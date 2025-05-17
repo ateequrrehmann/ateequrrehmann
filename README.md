@@ -36,20 +36,17 @@ Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at 
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
-     <p>Dart</p>
-     <p>SQL</p>
-     <p>Firebase</p>
+     
      
     <br />
     <br />
+</p>
     <summary><b>Full Stack App Developer</b></summary>
     <p>Dart</p>
     <p>Object Oriented Programming</p>
     <p>Firebase</p>
     <p>UI/UX</p>
     <p>Backend</p>
-    <br />
-    <br />
     
 </p>
 
