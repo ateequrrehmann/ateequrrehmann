@@ -22,7 +22,7 @@ Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at 
 
 ## 🔥 Streak Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ateequrrehmann&theme=algolia"
-        alt="abdullahqaisar" /></p>
+        alt="ateeq" /></p>
 
 ## 🛠️ My Skills
 
@@ -36,6 +36,10 @@ Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at 
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
+     <p>Dart</p>
+     <p>SQL</p>
+     <p>Firebase</p>
+     
     <br />
     <br />
     <summary><b>Full Stack App Developer</b></summary>
