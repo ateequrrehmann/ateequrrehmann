@@ -28,18 +28,12 @@ Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at 
 
 <p>
     <summary><b>Languages</b></summary>
-    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
-        <img alt="C++"
-            src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img alt="Python"
-            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    </a>
-     
-     
-    <br />
-    <br />
+    <p>C++</p>
+    <p>Python</p>
+     <p>Dart</p>
+     <p>SQL</p>
+     <p>NoSQL</p>
+     <p>SQLite</p>
 </p>
     <summary><b>Full Stack App Developer</b></summary>
     <p>Dart</p>
