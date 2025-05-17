@@ -39,10 +39,8 @@ Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at 
     <br />
     <br />
     <summary><b>Full Stack App Developer</b></summary>
-    <a href="https://www.geeksforgeeks.org/dart-tutorial/" target="_blank">
-        <img alt="HTML"
-            src="https://www.google.com/imgres?q=dart%20flutter%20icon&imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fflutter-icon-2048x2048-ufx4idi8.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F14068%2Fflutter&docid=Gn6eE_NsOVpPWM&tbnid=6U0TaxkRjZ1vqM&vet=12ahUKEwjMxtmD86qNAxWFQvEDHcUvAlUQM3oECBkQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjMxtmD86qNAxWFQvEDHcUvAlUQM3oECBkQAA">
-    </a>
+    <p>Dart</p>
+    <p>Object Oriented Programming</p>
     <p>Firebase</p>
     <p>UI/UX</p>
     <p>Backend</p>
