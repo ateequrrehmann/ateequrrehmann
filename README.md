@@ -3,7 +3,7 @@
         width="35"></h1>
 
 ## :sassy_man: About me
-Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at Air University, Islamabad. My passion lies in flutter app development, programming and I have gained expertise in app development from my two interships( one from BYTEWISE and other from TalentBase.Ai) where I worked as full stack app developer. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a content writer and love to write articles. I love nature and things related to it. I hope after completing my graduation degree I am good at almost everything.
+Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at Air University, Islamabad. My passion lies in web and flutter development, programming. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a content writer and love to write articles. I love nature and things related to it. I hope after completing my graduation degree I am good at almost everything.
 
 ## 👯 Connect with me
 <p>
@@ -29,16 +29,20 @@ Hi there! 👋 My name is Ateeq and I am a 3rd year computer science student at 
 <p>
     <summary><b>Languages</b></summary>
     <p>C++</p>
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>JavaScript</p>
+    <p>Express</p>
+    <p>Nodejs</p>
+    <p>MongoDB</p>
     <p>Python</p>
      <p>Dart</p>
      <p>SQL</p>
      <p>NoSQL</p>
      <p>SQLite</p>
 </p>
-    <summary><b>Full Stack App Developer</b></summary>
-    <p>Dart</p>
+    <summary><b>Full Stack Developer</b></summary>
     <p>Object Oriented Programming</p>
-    <p>Firebase</p>
     <p>UI/UX</p>
     <p>Backend</p>
     
